@@ -1,5 +1,4 @@
 # LWAI-trade
-仿tradingview，本地化看盘+量化AI分析
 #  LWAI 私有化的本地看盘+量化分析工具
 
 一个属于自己的「安全+本地+高效的 TradingView」。
