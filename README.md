@@ -7,7 +7,7 @@
 
 ![图片说明](images/ScreenShot_2026-10-10_144432_811@2x.png)
 ![图片说明](images/算力.jpg)
-![图片说明](images/LWAI.jpg)
+![图片说明](images/AI交易系统进化图.jpg)
 数据来源是新浪财经的免费接口，不需要付费、不需要 API Key。
 省了tradingview的订阅与数据费用。要实时的需要购买付费API。
 方便AI本地化策略因子开发、研究、部署等
