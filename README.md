@@ -4,7 +4,7 @@
 一个属于自己的「安全+本地+高效的 TradingView」。
 用图表引擎 + Pine 脚本引擎，直接把运行在tradingview的K线与指标画出来，
 并叠加自己写的 LWAI 体系指标。
-![图片说明](images/介绍.png)
+![图片说明](images/ScreenShot_2026-10-10_144432_811@2x.png)
 ![图片说明](images/算力.jpg)
 数据来源是新浪财经的免费接口，不需要付费、不需要 API Key。
 省了tradingview的订阅与数据费用。要实时的需要购买付费API。
