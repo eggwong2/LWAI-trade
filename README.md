@@ -1,5 +1,5 @@
 # 关于量化交易的一切功能、策略、指标、因子等，只要你想得出来能描述清楚，老王基本可以实现，在tradingview里面基本没我写不出的代码。这仓库只做功能请愿没任何代码，将你们想要的一切说出来！！！点击左上方Issues请愿！
-#  LWAI 私有化的本地看盘+量化分析工具+策略因子发掘工具
+#  LWAI 私有化的本地看盘+量化分析工具+策略因子发掘工具+大户交易痕迹识别+主力操盘手法识别。
 
 一个属于自己的「安全+本地+高效的 TradingView+大户追踪」。
 用图表引擎 + Pine 脚本引擎，直接把运行在tradingview的K线与指标画出来，
@@ -9,9 +9,12 @@
 
 <img width="5120" height="3533" alt="image" src="https://github.com/user-attachments/assets/299577f3-540b-44de-a71d-4953fc42dd6b" />
 
+<img width="4811" height="16478" alt="微信图片_20261014212907_12255_1" src="https://github.com/user-attachments/assets/032730a5-0775-4d57-b6bd-8e3291ff0cf0" />
+
+
 数据来源是市场公开的免费接口，不需要付费、本地一键启用。
 省了tradingview的订阅与数据费用。要实时的需要购买付费API。
-方便AI本地化策略因子开发、研究、部署等
+将tradingview指标移植到本地，方便AI本地化策略因子开发、研究、部署，策略合成和策略安全等
 ---
 
 ## 它是什么
